@@ -15,6 +15,11 @@ Que tal escrever "Buscando..." dentro do botão enquanto a requisição esta sen
 Seria legal também a gente mostrar para o usuário a cidade e estado dele,
 pra ele ter certeza que estamos mostrando a previsão do tempo da cidade correta, o que acha?
 
+Podemos também limpar o campo de busca após a busca ser realizada! Isso melhora a usabilidade
+do nosso sistema.
+
+O que acha de informamos o usuário quando a cidade não for encontrada ou tivermos algum 
+erro na nossa requisição? Legal ne?
 
 E por último temos varias outras informações que podemos mostrar para o usuário,
 como por exemplo, visibilidade, sensação termica, humidade, velocidade do vento.
